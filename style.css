@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+body {
+    background: black;
+}
+#snakeboard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px dashed darkblue;
+    border-radius: 2px;
+}
+#score {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 3rem;
+    font-family: 'Kirang Haerang', cursive;
+    color: darkgreen;
+}
+
